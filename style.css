@@ -8,10 +8,8 @@ img{
 
 body{
     position: absolute;
-    margin: auto;
     background-color: hsl(30, 54%, 90%);
     display: grid;
-    padding: 30px 350px;
     font-size: 16px;
     line-height: 30px;
     font-family: "Outfit", sans-serif;
@@ -44,7 +42,7 @@ table{
 ul{
     padding: 0;
     margin-left: 23px;
-    color: sl(30, 10%, 34%);
+    color: hsl(30, 10%, 34%);
 }
 
 ol{
@@ -94,13 +92,19 @@ h1{
 
 #grid{
     background-color: white;
-    padding: 30px 40px;
     border-radius: 10px;
+    margin: 20px auto;
+    padding: 30px 40px;
 }
 
-@media(max-width:1440px){
-    body{
-        margin:0;
-        padding:0;
+@media screen and (min-width: 320px){
+    #grid{
+        margin: 10px;
+    }
+}
+
+@media screen and (min-width: 1440px){
+    #grid{
+        margin: 50px 355px;
     }
 }
