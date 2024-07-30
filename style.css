@@ -58,9 +58,3 @@ button:hover{
     background-color: hsl(75, 94%, 57%);
     color: black;
 }
-
-@media (min-width: 375px) and (max-width: 1440px) {
-    body {
-        background-color: hsl(0, 0%, 8%);
-    }
-}
