@@ -16,7 +16,7 @@ This is a solution to the [Simple Omlette Recipe](https://www.frontendmentor.io/
 - CSS
 
 ### Useful Resources
-- [w3schools](https://www.w3schools.com/) - This helped me with learning different CSS styles especially for adjusting the margins to compensate for different screen sizes
+- [w3schools](https://www.w3schools.com/) helped me with learning different CSS styles especially for adjusting the margins to compensate for different screen sizes
 
 ## Author
 - [Frontend Mentor](https://www.frontendmentor.io/profile/kateahn6)
