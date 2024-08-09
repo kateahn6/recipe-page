@@ -1,7 +1,9 @@
 ## Simple Omelette Recipe
 This is a solution to the [Simple Omlette Recipe](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 ### The Challenge
-> This challenge will help you focus on writing semantic HTML. Ensure you think through what HTML elements are most appropriate for each piece of content.
+> Your challenge is to build out this recipe page and get it looking as close to the design as possible.
+
+
 
 ### Screenshot
 ![desktop-design](https://github.com/user-attachments/assets/f5cbe327-eafe-4907-bf86-bcc9558f64ef)
